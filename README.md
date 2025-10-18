@@ -1,4 +1,4 @@
-<img src="images/Zenitsu.jpeg" width="78%" height="30%" style="transform: rotate(270deg); margin: 0; padding: 0; display: block;"/>
+<img src="images/Zenitsu.jpeg" width="100%" height="30%" style="transform; margin: 0; padding: 0; display: block;"/>
 
 <p align="center">
   <a href="https://discordapp.com/users/1252303301928681537" alt="Discord">
