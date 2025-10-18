@@ -38,8 +38,6 @@ Hi 👋, I am <font size=6>**Sarthak**</font> an enthusiastic and ambitious full
 
 -   💬 Ask me about **Open Source, Web Development, Python, Cryptography, AI & ML,Recreational Maths**
 
--   📫 Reach me out at **darthvader4u@duck.com**
-
 -   💖 And, Yes I loved **Arcane**
 
 </details>
@@ -49,7 +47,7 @@ Hi 👋, I am <font size=6>**Sarthak**</font> an enthusiastic and ambitious full
 ---
 ## 🔥 Github Stats
 
-<img align="right" width="45%" style="margin-top: 80px;" src="images/demon.gif"/>
+<img align="right" width="45%" src="images/demon.gif"/>
 
 <a href="https://github.com/DengreSarthak"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=DengreSarthak&theme=bear&title_color=3996fa&show_icons=true"></a>
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=DengreSarthak&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=3996fa&fire=3996fa&sideNums=3996fa&mode=weekly"></a>
@@ -66,17 +64,6 @@ Hi 👋, I am <font size=6>**Sarthak**</font> an enthusiastic and ambitious full
   <a href="https://github.com/DenSarthak-23/amrit/"><img width="32%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenSarthak-23&repo=Amrit&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=3996fa&theme=react&show_icons=true" alt="readme-typing-svg"></a>
   <a href="https://github.com/DenSarthak-23/artela-encryption-aspect/"><img width="32%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenSarthak-23&repo=Artela-Encryption-Aspect&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=3996fa&theme=react&show_icons=true" alt="readme-typing-svg"></a>
   <a href="https://github.com/DenSarthak-23/Brainfuck-Go/"><img width="32%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenSarthak-23&repo=Brainfuck-Go&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=3996fa&theme=react&show_icons=true" alt="readme-typing-svg"></a>
-</p>
-<p align="center" style="margin-top: 4rem">
-  <a href="https://github.com/DenSarthak-23?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
-  <a href="https://github.com/DenSarthak-23?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=488207&label=stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FDenSarthak-23"/></a>
-  <a href="https://github.com/DenSarthak-23?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/DenSarthak-23?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-    <a href="https://github.com/DenSarthak-23">
-    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=DenSarthak-23&style=for-the-badge"/></a>
-<!--   <a href="https://github.com/DenSarthak-23">
-    <img alt="views" title="GitHub profile views" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=DenSarthak-23&style=for-the-badge&color=7c007c&lcolor=640464&logo=AngelList&logoColor=white"/></a> -->
 </p>
 
 ---
