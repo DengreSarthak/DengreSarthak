@@ -49,7 +49,7 @@ Hi 👋, I am <font size=6>**Sarthak**</font> an enthusiastic and ambitious full
 ---
 ## 🔥 Github Stats
 
-<img align="right" width="45%" style="margin-top: 60px;" src="images/demon.gif"/>
+<img align="right" width="45%" style="margin-top: 80px;" src="images/demon.gif"/>
 
 <a href="https://github.com/DengreSarthak"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=DengreSarthak&theme=bear&title_color=3996fa&show_icons=true"></a>
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=DengreSarthak&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=3996fa&fire=3996fa&sideNums=3996fa&mode=weekly"></a>
