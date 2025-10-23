@@ -25,10 +25,10 @@
 Hi 👋, I am <font size=6>**Sarthak**</font> an enthusiastic and ambitious full stack developer who ships protocols: gas-tight contracts, Python/Go tooling, and TypeScript/React front-ends. I blend cryptography with clean UX, wire up oracles, and obsess over token mechanics and audits. Open-source at heart, I like my visuals breathtaking—and my code with a spark of mischief. ✨
 
 <div>
-<details>
+<!-- <details>
   <summary>🧑 More about me</summary>
 
--   🔭 I’m currently on a path to contribute to the world with my **Ideas**
+<!-- -   🔭 I’m currently on a path to contribute to the world with my **Ideas**
 
 -   🌱 I’m currently learning **AI/ML with a touch of Cloud** 🤓
 
@@ -38,9 +38,9 @@ Hi 👋, I am <font size=6>**Sarthak**</font> an enthusiastic and ambitious full
 
 -   💬 Ask me about **Open Source, Web Development, Python, Cryptography, AI & ML,Recreational Maths**
 
--   💖 And, Yes I loved **Arcane**
+-   💖 And, Yes I loved **Arcane** -->
 
-</details>
+<!-- </details> --> -->
   
 </p>
   
