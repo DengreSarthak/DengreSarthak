@@ -22,7 +22,7 @@
 
 <p>
   
-Hi 👋, I am <font size=6>**Sarthak**</font> an enthusiastic and ambitious full stack developer who ships protocols: gas-tight contracts, Python/Go tooling, and TypeScript/React front-ends. I blend cryptography with clean UX, wire up oracles, and obsess over token mechanics and audits. Open-source at heart, I like my visuals breathtaking—and my code with a spark of mischief. ✨
+Hi 👋, I am <font size=6>**Sarthak**</font> an enthusiastic and ambitious full stack developer who ships protocols: gas tight contracts, Go tooling, and TypeScript/React frontends. I blend cryptography with clean UX, wire up oracles, and obsess over token mechanics and audits. Open-source at heart, I like my visuals breathtaking and my code with a spark of mischief. ✨
 
 <div>
 <!-- <details>
