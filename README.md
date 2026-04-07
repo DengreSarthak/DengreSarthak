@@ -23,24 +23,6 @@
 <p>
   
 Hi 👋, I am <font size=6>**Sarthak**</font> an enthusiastic and ambitious full stack developer who ships protocols: gas tight contracts, Go tooling, and TypeScript/React frontends. I blend cryptography with clean UX, wire up oracles, and obsess over token mechanics and audits. Open-source at heart, I like my visuals breathtaking and my code with a spark of mischief. ✨
-
-<div>
-<!-- <details>
-  <summary>🧑 More about me</summary>
-
-<!-- -   🔭 I’m currently on a path to contribute to the world with my **Ideas**
-
--   🌱 I’m currently learning **AI/ML with a touch of Cloud** 🤓
-
--   🤝 I’m looking for **People who have the same passion for Open Source and Projects to contribute to**
-
--   👨‍💻 All of my projects are available at [DengreSarthak](https://github.com/DengreSarthak)
-
--   💬 Ask me about **Open Source, Web Development, Python, Cryptography, AI & ML,Recreational Maths**
-
--   💖 And, Yes I loved **Arcane** -->
-
-<!-- </details> --> -->
   
 </p>
   
